@@ -20,6 +20,20 @@ Then, to see the amount of tokens registered to the inputted account number
 
 Finally, transfer any number of tokens to another users wallet upon providing their ID. 
 
+![image](https://github.com/user-attachments/assets/7a5d7d12-865d-450e-84b1-ef06d22ce6a9)
+
+I learnt an absolute ton in this one
+
+Using the Motoko language has been quite straightforward. Easy to read and access docs so this has been a breeze. 
+
+But, as the course itself is quite outdated. A fair amount has had to be troubleshooted on forums and from other students. 
+
+This would be what I learnt the most. It's not really about having all the knowledge memorised, rather, knowing where to look (and how to look) to find this info out.
+
+Onto the next one! FPT minting (Wait??? FPT's are still a thing) cite 2024
+
+
+
 
 Below is a walkthrough on how to configure the backend. Provided with the course. 
 
